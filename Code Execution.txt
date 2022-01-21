@@ -1,0 +1,48 @@
+A. typeof(1) 
+
+    Description :
+        typeof(1) is a Number Data type because all Number values are represented by a Integer Value.
+
+B. typeof(1.1) 
+
+    Description :
+        typeof(1.1) is also called as a Number Data type (or) Some of the time it called as a Float values.
+
+C. typeof('1.1')
+
+    Description :
+        typeof('1.1') is String Data Type because characters or number is enclosed with single quotes
+        or double quotes it's represented by a String Value.
+
+D. typeof(true) 
+
+    Description :
+        typeof(true) is a Blooean Data type because the valaue only takes either true or false so it can be
+        consider as a Boolean value.
+
+E. typeof(null) 
+
+    Description :
+         typeof(null) is a Object. null values represents a empty value or Unknown Value.
+
+F. typeof(undefined) 
+
+    Description :
+        typeof(undefined) is Undefined -> it means a variable does not have a any value or not declared.
+
+G. typeof([]) 
+
+    Description :
+        typeof([]) -> Object instance of types are called objects when we have defined a prototype or 
+        we need to declare an object of that type.
+
+H. typeof({}) 
+
+    Description :
+        typeof({}) -> Object instance of types are called objects when we have defined a prototype or 
+        we need to declare an object of that type.
+
+I. typeof(NaN)
+
+    Description :
+       typeof(NaN) -> it Means Not a Number. it represents the given number is not a valid number.
