@@ -1,0 +1,16 @@
+Difference between Browserjs Console vs Nodejs :
+
+
+Browser JS Console :
+
+1. window is a predefined global object which has functions and attributes.
+2. Browsers may have an object named global, but it will be the exact one as window.
+3. document, which is also another predefined global variable in browsers, has the html which is rendered.
+4. Browsers don’t have require predefined. You may include it in your app for asynchronous file loading.
+
+Nodejs :
+
+1. Node doesn’t have a predefined window object it doesn’t have a window to draw anything.
+2. Node has global, which is a predefined global object. It contains several functions that are not available in browsers, cause they are needed for server side works only.
+3. Node doesn’t have document object also, it never have to render anything in a page.
+4. Node require object is predefined in Node which is used to include modules in the app.
